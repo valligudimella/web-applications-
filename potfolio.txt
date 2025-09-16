@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1 style="text-align:center;">John Doe</h1>
+        <h1 style="text-align:center;">Hema sri valli gudimella</h1>
         <p style="text-align:center;">Home | Projects | Blogs | Contact</p>
     </header>
     <h2 style="text-align:center;">Web Developer and Designer</h2>
